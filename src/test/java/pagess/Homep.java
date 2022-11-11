@@ -14,7 +14,7 @@ public class Homep extends BaseCls {
 	
 	public WebDriver driver;
 	
-	
+	//connection git
 	@Test
 	public void inti() throws IOException
 	{
